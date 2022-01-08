@@ -1,4 +1,4 @@
-# SpaceX Job Scraper
+# [SpaceX Job Scraper](https://github.com/charlescoult/cc-spacex-jobs)
 
 I created this scraper to pull all jobs from SpaceX's Careers page and make a CSV file for them that can be imported into Google Sheets. This allows me to more easily sort through the job postings and make a list of the ones I'd like to apply for.
 
