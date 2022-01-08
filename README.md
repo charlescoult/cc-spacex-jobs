@@ -4,6 +4,11 @@ I created this scraper to pull all jobs from SpaceX's Careers page and make a CS
 
 Initially, I wanted to pull the "Requirements" sections of all the job postings from their corresponding greenhouse.io page so that I could filter out the jobs that I don't meet the requirements for however the pages are not formatted consistently, making the job a bit more difficult. I don't have the time to add that feature right now. I may revisit this in the future.
 
+> I could also have implemented this in NodeJS but I thought Python might be a little easier to work with.
+
+> Might make Job posting detail retrieval asynchronous in the future
+
+
 ## Links
 * [Github Repo](https://github.com/charlescoult/cc-spacex-jobs)
 * [Resultant data.csv file](https://github.com/charlescoult/cc-spacex-jobs/blob/main/data.csv)
