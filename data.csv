@@ -1,134 +1,43 @@
-Job Title,Link,Location,Employment Type,Job ID,Details
-Application Software Engineer,https://boards.greenhouse.io/spacex/jobs/5782175002?gh_jid=5782175002,"Hawthorne, CA or Redmond, WA",Full-Time,5782175002,"<div class="""" id=""content"">
- <p>
-  SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.
- </p>
- <p>
-  <b>
-   APPLICATION SOFTWARE ENGINEER
-  </b>
- </p>
- <p>
-  The application software team is the central nervous system of SpaceX – we create mission critical applications that are used throughout SpaceX to accelerate launch vehicle production and flight as well as systems that allow Starlink to grow into a worldwide fast, reliable Internet service.
- </p>
- <p>
-  Our team is currently creating and evolving systems to enable rapid build and reuse of Starship as well as designing the next generation manufacturing software that will be used in high throughput factories for Starlink. Other applications range from platforms that support concurrent streams of data from many always-on assets to manage the world’s largest satellite constellation to public facing systems where customers can join our Starlink network globally. We work closely with engineers throughout the company to create and update our systems with respect to crewed launches, Starship flights, changes to the Starlink network and much more.
- </p>
- <p>
-  Aerospace experience is not required to be successful here - rather we look for smart, motivated, collaborative engineers who love solving problems and want to make an impact on a super inspiring mission. You will have full ownership of challenging problems, working with a team of enthusiastic engineers to design and produce solutions that enable SpaceX to move towards our goals at a rapid pace. The success of the missions at SpaceX depends on the software that you and your team produce.
- </p>
- <p>
-  <b>
-   RESPONSIBILITIES:
-  </b>
- </p>
- <ul>
-  <li>
-   Develop highly reliable software solutions that are used across SpaceX
-  </li>
-  <li>
-   Create new applications that improve how the business at SpaceX operates
-  </li>
-  <li>
-   Collaborate with peers on architecture, design, and code reviews
-  </li>
-  <li>
-   Build prototypes to prove out key design concepts and quantify technical constraints
-  </li>
-  <li>
-   Own all aspects of software engineering and product development
-  </li>
-  <li>
-   Deep dive into your users’ problems, find efficient solutions
-  </li>
- </ul>
- <p>
-  <b>
-   BASIC QUALIFICATIONS:
-  </b>
- </p>
- <ul>
-  <li>
-   Bachelor's degree in computer science, engineering, math, or scientific discipline OR 2+ years of professional experience building software
-  </li>
-  <li>
-   Experience in full stack development
-  </li>
- </ul>
- <p>
-  <b>
-   PREFERRED SKILLS AND EXPERIENCE:
-  </b>
- </p>
- <ul>
-  <li>
-   Programming experience in Python, C#.NET, Go, Java, or similar object-oriented language
-  </li>
-  <li>
-   1+ years of rigorous experience building single page web applications
-  </li>
-  <li>
-   Expertise in designing software systems
-  </li>
-  <li>
-   Expertise in testing and infrastructure
-  </li>
-  <li>
-   Expertise in profiling and improving application performance
-  </li>
-  <li>
-   Front-end experience in Angular, React, or similar JavaScript framework
-  </li>
-  <li>
-   Database experience with PostgreSQL, SQL Server, or similar database technologies
-  </li>
- </ul>
- <p>
-  <b>
-   ADDITIONAL REQUIREMENTS:
-  </b>
- </p>
- <ul>
-  <li>
-   Must be willing to work extended hours and weekends
-  </li>
- </ul>
- <p>
-  <b>
-   ITAR REQUIREMENTS:
-  </b>
- </p>
- <ul>
-  <li>
-   To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR
-   <a href=""https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&amp;sys_id=24d528fddbfc930044f9ff621f961987"" target=""_blank"">
-    here
-   </a>
-   .
-  </li>
- </ul>
- <p>
-  SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.
- </p>
- <p>
-  Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should notify the Human Resources Department at (310) 363-6000.
- </p>
-</div>
-"
-Application Software Engineer II,https://boards.greenhouse.io/spacex/jobs/5611916002?gh_jid=5611916002,"Hawthorne, CA, United States",Full-Time,5611916002,"<div class="""" id=""content"">
- <p>
-  SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.
- </p>
- <p>
-  <strong>
-   APPLICATION SOFTWARE ENGINEER II
-  </strong>
- </p>
- <p>
-  The application software team is the central nervous system of SpaceX – we create mission critical applications that are used throughout SpaceX to accelerate launch vehicle production and flight as well as systems that allow Starlink to grow into a worldwide fast, reliable Internet service.
- </p>
- <p>
-  Our team is currently creating and evolving systems to enable rapid build and reuse of Starship as well as designing the next generation manufacturing software that will be used in high throughput factories for Starlink. Other applications range from platforms that support concurrent streams of data from many always-on assets to manage the world’s largest satellite constellation to public facing systems where customers can join our Starlink network globally. We work closely with engineers throughout the company to create and update our systems with respect to crewed launches, Starship flights, changes to the Starlink network and much more.
+Job Title,Link,Location,Employment Type,Job ID
+Application Software Engineer,https://boards.greenhouse.io/spacex/jobs/5782175002?gh_jid=5782175002,"Hawthorne, CA or Redmond, WA",Full-Time,"<_sre.SRE_Match object; span=(59, 69), match='5782175002'>"
+Application Software Engineer II,https://boards.greenhouse.io/spacex/jobs/5611916002?gh_jid=5611916002,"Hawthorne, CA, United States",Full-Time,"<_sre.SRE_Match object; span=(59, 69), match='5611916002'>"
+Software Engineer (Full Stack/Build Tools),https://boards.greenhouse.io/spacex/jobs/5784844002?gh_jid=5784844002,"Hawthorne, CA, United States",Full-Time,"<_sre.SRE_Match object; span=(59, 69), match='5784844002'>"
+Sr. Application Software Engineer,https://boards.greenhouse.io/spacex/jobs/5744532002?gh_jid=5744532002,"Brownsville, TX, United States",Full-Time,"<_sre.SRE_Match object; span=(59, 69), match='5744532002'>"
+Sr. Application Software Engineer,https://boards.greenhouse.io/spacex/jobs/5561522002?gh_jid=5561522002,"Hawthorne, CA or Redmond, WA",Full-Time,"<_sre.SRE_Match object; span=(59, 69), match='5561522002'>"
+Sr. Application Software Engineer (Top Secret Clearance),https://boards.greenhouse.io/spacex/jobs/5741910002?gh_jid=5741910002,"Washington, DC, United States",Full-Time,"<_sre.SRE_Match object; span=(59, 69), match='5741910002'>"
+Sr. Software Engineer (Simulation Software),https://boards.greenhouse.io/spacex/jobs/5611948002?gh_jid=5611948002,"Hawthorne, CA, United States",Full-Time,"<_sre.SRE_Match object; span=(59, 69), match='5611948002'>"
+Sr. Web Developer,https://boards.greenhouse.io/spacex/jobs/5779068002?gh_jid=5779068002,"Hawthorne, CA, United States",Full-Time,"<_sre.SRE_Match object; span=(59, 69), match='5779068002'>"
+ Avionics Systems & Integration Engineer (Starship),https://boards.greenhouse.io/spacex/jobs/5641467002?gh_jid=5641467002,"Brownsville, TX, United States",Full-Time,"<_sre.SRE_Match object; span=(59, 69), match='5641467002'>"
+593152002,"Hawthorne, CA, United States",Full-Time
+"Electromechanical Technician, Starship Avionics ",https://boards.greenhouse.io/spacex/jobs/5582920002?gh_jid=5582920002,"Hawthorne, CA, United States",Full-Time
+Embedded Software Engineer (Avionics),https://boards.greenhouse.io/spacex/jobs/5447125002?gh_jid=5447125002,"Hawthorne, CA, United States",Full-Time
+EMI/EMC Engineer,https://boards.greenhouse.io/spacex/jobs/5723750002?gh_jid=5723750002,"Hawthorne, CA, United States",Full-Time
+FPGA Engineer (Avionics),https://boards.greenhouse.io/spacex/jobs/5482647002?gh_jid=5482647002,"Hawthorne, CA, United States",Full-Time
+Ground Segment Operations Specialist,https://boards.greenhouse.io/spacex/jobs/5700833002?gh_jid=5700833002,"Hawthorne, CA, United States",Full-Time
+"Lead Hardware Development Engineer, Starship Avionics ",https://boards.greenhouse.io/spacex/jobs/5649608002?gh_jid=5649608002,"Brownsville, TX, United States",Full-Time
+Lead Radiation Effects Engineer,https://boards.greenhouse.io/spacex/jobs/5420932002?gh_jid=5420932002,"Hawthorne, CA, United States",Full-Time
+"Manager, Systems Integration Engineering (Starship Avionics)",https://boards.greenhouse.io/spacex/jobs/5550936002?gh_jid=5550936002,"Brownsville, TX, United States",Full-Time
+PCB Designer,https://boards.greenhouse.io/spacex/jobs/5813535002?gh_jid=5813535002,"Hawthorne, CA, United States",Full-Time
+"Production Manager, Starship Avionics ",https://boards.greenhouse.io/spacex/jobs/5605650002?gh_jid=5605650002,"Brownsville, TX, United States",Full-Time
+RF Communications Systems Engineer,https://boards.greenhouse.io/spacex/jobs/5644215002?gh_jid=5644215002,"Hawthorne, CA, United States",Full-Time
+RF Signal Processing Engineer,https://boards.greenhouse.io/spacex/jobs/5636574002?gh_jid=5636574002,"Hawthorne, CA, United States",Full-Time
+Senior Avionics Systems & Integration Engineer (Starship) ,https://boards.greenhouse.io/spacex/jobs/5645405002?gh_jid=5645405002,"Brownsville, TX, United States",Full-Time
+Senior Electrical Design Engineer (Starship),https://boards.greenhouse.io/spacex/jobs/5528946002?gh_jid=5528946002,"Hawthorne, CA, United States",Full-Time
+"Sensor Development Engineer, Life Support Systems",https://boards.greenhouse.io/spacex/jobs/5812733002?gh_jid=5812733002,"Hawthorne, CA, United States",Full-Time
+Sr. Digital Design Engineer (Starship Avionics),https://boards.greenhouse.io/spacex/jobs/5383603002?gh_jid=5383603002,"Hawthorne, CA, United States",Full-Time
+ Sr. Mechanical Engineer (Starship Avionics),https://boards.greenhouse.io/spacex/jobs/5383591002?gh_jid=5383591002,"Brownsville, TX, United States",Full-Time
+Sr. Radiation Effects Engineer,https://boards.greenhouse.io/spacex/jobs/5669738002?gh_jid=5669738002,"Hawthorne, CA, United States",Full-Time
+Sr. RF Electrical Hardware Design Engineer,https://boards.greenhouse.io/spacex/jobs/5807170002?gh_jid=5807170002,"Hawthorne, CA, United States",Full-Time
+Sr. RF Engineer,https://boards.greenhouse.io/spacex/jobs/5807195002?gh_jid=5807195002,"Hawthorne, CA, United States",Full-Time
+Build Reliability Engineer,https://boards.greenhouse.io/spacex/jobs/5564624002?gh_jid=5564624002,"Hawthorne, CA, United States",Full-Time
+Launch Build Reliability Engineer,https://boards.greenhouse.io/spacex/jobs/5748320002?gh_jid=5748320002,"Cape Canaveral, FL, United States",Full-Time
+Launch Quality Inspector - 2nd Shift,https://boards.greenhouse.io/spacex/jobs/5806248002?gh_jid=5806248002,"Cape Canaveral, FL, United States",Full-Time
+Launch Quality Inspector - Weekend Day,https://boards.greenhouse.io/spacex/jobs/5805783002?gh_jid=5805783002,"Cape Canaveral, FL, United States",Full-Time
+Spring 2022 Associate Engineer - Post Grad,https://boards.greenhouse.io/spacex/jobs/5526727002?gh_jid=5526727002,Flexible - Any SpaceX Site,Intern
+Spring 2022 Business Operations Internship/Co-op,https://boards.greenhouse.io/spacex/jobs/5526075002?gh_jid=5526075002,Flexible - Any SpaceX Site,Intern
+Spring 2022 Engineering Internship/Co-op,https://boards.greenhouse.io/spacex/jobs/5526332002?gh_jid=5526332002,Flexible - Any SpaceX Site,Intern
+Spring 2022 Software Engineering Internship/Co-op,https://boards.greenhouse.io/spacex/jobs/5526324002?gh_jid=5526324002,Flexible - Any SpaceX Site,Intern
+gest satellite constellation to public facing systems where customers can join our Starlink network globally. We work closely with engineers throughout the company to create and update our systems with respect to crewed launches, Starship flights, changes to the Starlink network and much more.
  </p>
  <p>
   Aerospace experience is not required to be successful here - rather we look for smart, motivated, collaborative engineers who love solving problems and want to make an impact on a super inspiring mission. You will have full ownership of challenging problems, working with a team of enthusiastic engineers to design and produce solutions that enable SpaceX to move towards our goals at a rapid pace. The success of the missions at SpaceX depends on the software that you and your team produce.
